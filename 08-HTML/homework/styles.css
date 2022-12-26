@@ -1,0 +1,45 @@
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: green;
+    padding: 50px;
+    border: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1,
+h3 {
+    color: fuchsia
+
+}
+
+.mySpan {
+    font-size: 18px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#img1 {
+    height: 280px;
+    width: 400px;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#img2 {
+    height: 280px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
