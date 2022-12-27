@@ -5,24 +5,17 @@
     padding: 50px;
     border: 10px;
     color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin: auto; 
 }
 
 h1,
 h3 {
     color: fuchsia
-
 }
 
 .mySpan {
-    font-size: 18px;
-    margin: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   
+   margin-left: auto;
+   margin-right: auto;
 }
 
 #img1 {
@@ -30,9 +23,6 @@ h3 {
     width: 400px;    
     display: flex;
     justify-content: center;
-    align-items: center;
-
-
 }
 
 #img2 {
@@ -40,6 +30,17 @@ h3 {
     width: 400px;
     display: flex;
     justify-content: center;
-    align-items: center;
-
 }
+.divClass{
+    display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+
+body{
+    background-image: url(https://s03.s3c.es/imag/_v0/1200x655/8/2/7/taj-mahal-india-alamy.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+
