@@ -17,9 +17,10 @@ function crearUsuario() {
       this.email = opciones.email;
       this.password = opciones.password;
     }
-    saludar() {
+    funcionDos = function () {
       return 'Hola, mi nombre es ' + this.nombre
     }
+    saludar = this.funcionDos;
   }
   return Usuario
 }
