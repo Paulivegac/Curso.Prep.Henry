@@ -1,0 +1,7 @@
+Constructor (de clases): El Constructor es una plantilla. Imaginas que quieres dibujar varios cuadrado, pero no quieres medirlos todas las veces, entonces haces un modelo en cartón. 
+Mides y revisas bien ese modelo, y luego lo usas para dibujar 50, 5 o todas las veces que quieras el mismo cuadrado, sin tener que medirlo una y otra vez.
+Siempre tendrá las mismas medidas, ya que es una plantilla que vas duplicando.
+
+Prototype: Son las medidas, las características que tiene el Constructor creadas. Podemos realizar cambios en el Prototype, agregádo un método directo en el él, por ejemplo.
+Todos los objetos tiene un Prototype con características definidas por js o por el usuario. Por ejemplo, los arreglos tiene características
+que ya viene definidas por defectos (funciones como el join, split, etc.)
