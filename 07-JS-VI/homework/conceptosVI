@@ -1,0 +1,4 @@
+
+Funciones Call back: Implica poner dentro de una función, una acción que se está haciendo, pedir que haga otra acción. Esto
+se hace pasando una acción como argumento. Por ejemplo, si una función enmpuña cierra la mano, pedir dentro de la misma función, 
+realice otra acción como subir la rodilla. De esta forma, cuando se realice la función de cerrar la mano, tb se subirá la rodilla.
